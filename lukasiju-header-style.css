@@ -1,0 +1,8 @@
+header {
+    margin: 0 auto;
+    width: 100vw;
+    height: 50vw;
+    background: #006cff;
+    background: radial-gradient(left top, circle cover, rgba(100, 66, 255, 0.9) 15%, rgba(0, 108, 255, 0.9) 50%, rgba(12, 180, 206, 0.9) 85%);
+    background: -webkit-radial-gradient(left top, circle cover, rgba(100, 66, 255, 0.9) 15%, rgba(0, 108, 255, 0.9) 50%, rgba(12, 180, 206, 0.9) 85%);
+  }
