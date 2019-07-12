@@ -13,7 +13,7 @@
 
 <header>
     <button id = "btn" class="lukasiju-mnu" aria-expanded="false" aria-pressed="false"><span></span></button>
-    <button id="btn1">CHANGE NAV</button>
+
     <nav >
 
     </nav>
