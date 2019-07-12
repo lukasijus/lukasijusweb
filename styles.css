@@ -1,3 +1,5 @@
 html, body {
-  background-color: aqua;
+  background-color:whitesmoke;
+  overflow-x: hidden;
+  margin: 0 auto;
   }
