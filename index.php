@@ -1,6 +1,6 @@
 <html>
     <head>
-        <link rel="stylesheet" type = "text/css" href="lukasijusweb/styles.css">
+        <link rel="stylesheet" type = "text/css" href="lukasijusweb/style.css">
         <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-menu-icon.css">
         <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-menu-table.css">
         <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-header-style.css">
