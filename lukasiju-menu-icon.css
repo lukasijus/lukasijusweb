@@ -10,7 +10,7 @@
 
 .lukasiju-mnu span::before {
 top: -7px;
-top: -0.7rem;
+top: -0.5rem;
 transition: top 0.4s 0.4s, transform 0.4s 0s, background-color 0.82s 0.1s;
 }
 .lukasiju-mnu span::before,.lukasiju-mnu span::after {
@@ -32,7 +32,7 @@ transition: bottom 0.4s 0s, transform 0.4s 0.4s, background-color 0.82s 0.1s;
 
 .lukasiju-mnu span::after {
 bottom: -7px;
-bottom: -0.7rem;
+bottom: -0.5rem;
 transition: bottom 0.4s 0.4s, transform 0.4s 0s, background-color 0.82s 0.1s;
 }
 .lukasiju-mnu {
@@ -42,11 +42,11 @@ background-color: none;
 box-shadow: none;
 display: block;
 position: absolute;
-top: 1rem;
+top: 20px;
 padding: 0;
 right: 5%;
 line-height: 0;
-height: 100px;
+height: 50px;
 width: auto;
 color: transparent;
 z-index: 999;
@@ -60,7 +60,7 @@ position: relative;
 height: 2px;
 background: #ffffff;
 transition: background 0s 0.4s;
-width: 3rem;
+width: 30px;
 margin: 0;
 border-radius: 1px;
 box-shadow: none;
@@ -83,7 +83,7 @@ outline:none;
 
 
 
-@media screen and (min-width:600px) {
+@media screen and (min-width:900px) {
     #btn{
         display: none; 
     }
