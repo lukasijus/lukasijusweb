@@ -5,7 +5,7 @@
         <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-menu-table.css">
         <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-header-style.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-        <script type="text/javascript" src="anim-icon.js"></script>
+        <script type="text/javascript" src="lukasijusweb/anim-icon.js"></script>
    
     </head>
 <body>
