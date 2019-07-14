@@ -15,7 +15,9 @@
 <body>
 <header>
                     
-<li><a href="#contact">Contact</a></li>
+<ul>
+                    
+                    <li><a href="#contact">Contact</a></li>
                     <li><a href="#CV">Computer Vision</a></li>
                     <li><a href="#WD">Web Development</a></li>
                     <li><a href="#about">About</a></li>
