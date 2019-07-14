@@ -3,3 +3,36 @@ html, body {
   overflow-x: hidden;
   margin: 0 auto;
   }
+logo {
+  font-family: 'Russo One', sans-serif;
+  font-size: 42px;
+  color: whitesmoke;
+}
+
+#name {
+  color: aliceblue;
+  margin: auto;
+  padding-top: 100px;
+  width: 70%;
+  text-align: center;
+  font-family: 'Roboto', 'sans-serif';
+  font-size: 56px;
+}
+
+@media screen and (max-width: 899px){
+  #name {
+    font-size: 48px;
+  }
+}
+
+@media screen and (max-width: 899px){
+  #name {
+    font-size: 48px;
+  }
+}
+
+@media screen and (max-width: 764px){
+  #name {
+    font-size: 32px;
+  }
+}
