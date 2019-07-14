@@ -4,6 +4,7 @@ html, body {
   margin: 0 auto;
   }
 logo {
+  
   font-family: 'Russo One', sans-serif;
   font-size: 42px;
   color: whitesmoke;
@@ -28,6 +29,9 @@ logo {
 @media screen and (max-width: 899px){
   #name {
     font-size: 48px;
+  }
+  logo {
+    font-size: 32px;
   }
 }
 
