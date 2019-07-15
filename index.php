@@ -1,5 +1,10 @@
 <html>
     <head>
+        <!-- Tell Browsers not to cache - Start -->
+        <meta http-equiv="Cache-Control" content="no-cache" />
+        <meta http-equiv="Pragma" content="no-cache" />
+        <meta http-equiv="Expires" content="0" />
+        <!-- Tell Browsers not to cache - End -->
         <meta http-equiv="Content-Type" content="text/html"; charset="utf-8"/>
         <title>Lukas Rimkus | UX/UI Designer & Full Stack Engineer</title>
         <meta name="description" content="Front-End & Back-End Development"/>
