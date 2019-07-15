@@ -1,7 +1,8 @@
 window.onload = function getName() {
+    var x = document.title;
     name = document.getElementById("name");
-    if (name = 'Lukas Rimkus Web Dev | Computer Vision') {
-        document.getElementById("name").innerHTML = 'Web Development & Computer Vision';
+    if (x === 'Lukas Rimkus | UX/UI Designer & Full Stack Engineer') {
+        document.getElementById("name").innerHTML = 'UX/UI Designer & Full Stack Engineer';
     }
     else {
         document.getElementById("name").innerHTML = document.title;}
