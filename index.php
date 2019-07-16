@@ -15,6 +15,7 @@
         <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-menu-table.css">
         <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-header-style.css">
         <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-menu-navigation-bar.css">
+        <link rel="stylesheet" type = "text/css" href="lukasijusweb/container.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
         <script type="text/javascript" src="lukasijusweb/anim-icon.js"></script>
         <script type="text/javascript" src="lukasijusweb/page_title.js"></script>
@@ -47,8 +48,94 @@
                   
     </header>
 
-
+  
     
-     ...
+    <main class="page">
+    
+            <!-- Title -->
+            <h1 class="page-title"></h1>
+            
+            <!-- Content -->
+            <div class="page-content">
+                
+                <!-- Placeholder Content -->
+                <div class="placeholder-content">
+                    <div class="placeholder-content_item"></div>
+                    <div class="placeholder-content_item"></div>
+                    <div class="placeholder-content_item"></div>
+                    <div class="placeholder-content_item"></div>
+                    <div class="placeholder-content_item"></div>
+                    <div class="placeholder-content_item"></div>
+                    <div class="placeholder-content_item"></div>
+                    <div class="placeholder-content_item"></div>
+                    <div class="placeholder-content_item"></div>
+                    <div class="placeholder-content_item"></div>
+                    <div class="placeholder-content_item"></div>
+                </div>
+                
+            </div>
+            
+        </main>
+        
+
+        <main class="page2">
+    
+                <!-- Title -->
+                <h1 class="page-title"></h1>
+                
+                <!-- Content -->
+                <div class="page-content">
+                    
+                    <!-- Placeholder Content -->
+                    <div class="placeholder-content">
+                        <div class="placeholder-content_item"></div>
+                        <div class="placeholder-content_item"></div>
+                        <div class="placeholder-content_item"></div>
+                        <div class="placeholder-content_item"></div>
+                        <div class="placeholder-content_item"></div>
+                        <div class="placeholder-content_item"></div>
+                        <div class="placeholder-content_item"></div>
+                        <div class="placeholder-content_item"></div>
+                        <div class="placeholder-content_item"></div>
+                        <div class="placeholder-content_item"></div>
+                        <div class="placeholder-content_item"></div>
+                    </div>
+                    
+                </div>
+                
+            </main>
+
+
+            <main class="page3">
+    
+                    <!-- Title -->
+                    <h1 class="page-title"></h1>
+                    
+                    <!-- Content -->
+                    <div class="page-content">
+                        
+                        <!-- Placeholder Content -->
+                        <div class="placeholder-content">
+                            <div class="placeholder-content_item"></div>
+                            <div class="placeholder-content_item"></div>
+                            <div class="placeholder-content_item"></div>
+                            <div class="placeholder-content_item"></div>
+                            <div class="placeholder-content_item"></div>
+                            <div class="placeholder-content_item"></div>
+                            <div class="placeholder-content_item"></div>
+                            <div class="placeholder-content_item"></div>
+                            <div class="placeholder-content_item"></div>
+                            <div class="placeholder-content_item"></div>
+                            <div class="placeholder-content_item"></div>
+                        </div>
+                        
+                    </div>
+                    
+                </main>
+
+
+                <div class="footer">
+         <p></p>
+        </div>
 </body>
     </html>

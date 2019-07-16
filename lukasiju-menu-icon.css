@@ -36,6 +36,7 @@ bottom: -0.5rem;
 transition: bottom 0.4s 0.4s, transform 0.4s 0s, background-color 0.82s 0.1s;
 }
 .lukasiju-mnu {
+z-index: 999;
 padding: 2.7rem 0;
 cursor: pointer;
 background-color: none;
