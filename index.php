@@ -1,5 +1,13 @@
 <html>
     <head>
+                <!-- Global site tag (gtag.js) - Google Analytics -->
+                <script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+                gtag('config', 'UA-141193083-2');
+        </script>
         <!-- Tell Browsers not to cache - Start -->
         <meta http-equiv="Cache-Control" content="no-cache" />
         <meta http-equiv="Pragma" content="no-cache" />

@@ -20,6 +20,13 @@ logo {
   font-size: 56px;
 }
 
+.heading {
+  font-family: 'Roboto', 'sans-serif';
+  font-size: 56px;
+  color: rgba(77, 73, 73, 0.952);
+  text-align: center;
+}
+
 .footer {
   border-top: 1px solid #d3c8c8;
   
@@ -39,7 +46,7 @@ logo {
 }
 
 @media screen and (max-width: 899px){
-  #name {
+  #name , .heading {
     font-size: 48px;
   }
   logo {
@@ -48,7 +55,7 @@ logo {
 }
 
 @media screen and (max-width: 764px){
-  #name {
+  #name, .heading {
     font-size: 32px;
   }
 }
