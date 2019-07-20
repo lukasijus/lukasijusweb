@@ -57,7 +57,7 @@
     </header>
 
   
-    
+    <h1 class="heading">Technologies</h1>
     <main class="page">
     
             <!-- Title -->
