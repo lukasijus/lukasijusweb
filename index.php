@@ -18,7 +18,7 @@
         <meta name="description" content="Front-End & Back-End Development"/>
         <meta name="keywords" content="UI, UX, Front-end, Back-end, Full Stack, Web Development, Design, Lukas Rimkus" />
         <meta name="robots" content="index,follow" />
-        <link rel="stylesheet" type = "text/css" href="lukasijusweb/style.css">
+        <link rel="stylesheet" type = "text/css" href="lukasijusweb/style.css?rnd=1">
         <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-menu-icon.css">
         <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-menu-table.css">
         <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-header-style.css">
