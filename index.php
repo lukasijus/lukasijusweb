@@ -60,37 +60,37 @@
     <h1 class="heading">Technologies</h1>
 
     <div class = "technologies">
-            <div class="imgcont"><img class="img" src="./img/HTML5_Badge_512.png"  alt="HTML5 Powered" title="HTML5 Powered"></div>
+            <div class="imgcont"><img class="img" src="lukasijusweb/img/HTML5_Badge_512.png"  alt="HTML5 Powered" title="HTML5 Powered"></div>
             
-            <div class="imgcont"> <img class="img" src="./img/css-131-722685.png" alt = "CSS3 Powered" title="CSS3 Powered"></div>
+            <div class="imgcont"> <img class="img" src="lukasijusweb/img/css-131-722685.png" alt = "CSS3 Powered" title="CSS3 Powered"></div>
            
-            <div class="imgcont"><img class="img" src="./img/bootstrap-logo.jpg" alt = "Bootstrap Powered" title="Bootstrap Powered"></div>
+            <div class="imgcont"><img class="img" src="lukasijusweb/img/bootstrap-logo.jpg" alt = "Bootstrap Powered" title="Bootstrap Powered"></div>
             
-            <div class="imgcont"><img class="img" src="./img/sass.png" alt = "Sass Powered" title="Sass Powered"></div>
+            <div class="imgcont"><img class="img" src="lukasijusweb/img/sass.png" alt = "Sass Powered" title="Sass Powered"></div>
 
-             <div class="imgcont"><img class="img" src="./img/tumblr_lsus01g1ik1qies3uo1_400.png" alt = "Javascript Powered" title="Javascript Powered"></div>
+             <div class="imgcont"><img class="img" src="lukasijusweb/img/tumblr_lsus01g1ik1qies3uo1_400.png" alt = "Javascript Powered" title="Javascript Powered"></div>
 
-             <div class="imgcont"><img class="img" src="./img/jquery.png" alt = "jQuery Powered" title="jQuery Powered"></div>
+             <div class="imgcont"><img class="img" src="lukasijusweb/img/jquery.png" alt = "jQuery Powered" title="jQuery Powered"></div>
 
-             <div class="imgcont"><img class="img" src="./img/React.js_logo-512.png" alt = "React Powered" title="React Powered"></div>
+             <div class="imgcont"><img class="img" src="lukasijusweb/img/React.js_logo-512.png" alt = "React Powered" title="React Powered"></div>
 
-             <div class="imgcont"><img class="img" src="./img/eslint-logo-300x300.png" alt = "eslint Powered" title="eslint Powered"></div>
+             <div class="imgcont"><img class="img" src="lukasijusweb/img/eslint-logo-300x300.png" alt = "eslint Powered" title="eslint Powered"></div>
 
-             <div class="imgcont"><img class="img" src="./img/angular.png" alt = "Angular Powered" title="Angular Powered"></div>
+             <div class="imgcont"><img class="img" src="lukasijusweb/img/angular.png" alt = "Angular Powered" title="Angular Powered"></div>
 
-             <div class="imgcont"><img class="img" src="./img/nodejs-logo-png-nice-images-collection-node-js-desktop-wallpapers-370.png"  alt = "Node Powered" title="Node Powered"></div>
+             <div class="imgcont"><img class="img" src="lukasijusweb/img/nodejs-logo-png-nice-images-collection-node-js-desktop-wallpapers-370.png"  alt = "Node Powered" title="Node Powered"></div>
 
-             <div class="imgcont"><img class="img" src="./img/Git-Icon-1788C.png" alt = "Git Powered" title="Git Powered"></div>
+             <div class="imgcont"><img class="img" src="lukasijusweb/img/Git-Icon-1788C.png" alt = "Git Powered" title="Git Powered"></div>
 
-             <div class="imgcont"><img class="img" src="./img/github.svg" alt = "Github Powered" title="Github Powered"></div>
+             <div class="imgcont"><img class="img" src="lukasijusweb/img/github.svg" alt = "Github Powered" title="Github Powered"></div>
 
-             <div class="imgcont"><img class="img" src="./img/WordPress-logotype-simplified.png" alt = "wordpress Powered" title="wordrpess Powered"></div>
+             <div class="imgcont"><img class="img" src="lukasijusweb/img/WordPress-logotype-simplified.png" alt = "wordpress Powered" title="wordrpess Powered"></div>
 
-             <div class="imgcont"><img class="img" src="./img/php_PNG50.png" alt = "PHP Powered" title="PHP Powered"></div>
+             <div class="imgcont"><img class="img" src="lukasijusweb/img/php_PNG50.png" alt = "PHP Powered" title="PHP Powered"></div>
 
-             <div class="imgcont"><img class="img" src="./img/mysql.png" alt = "mySQL Powered" title="mySQL Powered"></div>
+             <div class="imgcont"><img class="img" src="lukasijusweb/img/mysql.png" alt = "mySQL Powered" title="mySQL Powered"></div>
 
-             <div class="imgcont"><img class="img" src="./img/npm_logo.png"  alt = "npm Powered" title="npm Powered"></div>
+             <div class="imgcont"><img class="img" src="lukasijusweb/img/npm_logo.png"  alt = "npm Powered" title="npm Powered"></div>
     </div>
 
 
