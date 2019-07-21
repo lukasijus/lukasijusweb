@@ -5,14 +5,14 @@
     transition: width 1s;
   }
   .page {
-    background: #e48a8a;
+    background: #AFD7E2;
   }
   .page2 {
-      background: rgb(129, 122, 230);
+      background: #AFC4E5;
   }
 
   .page3 {
-      background: rgb(188, 106, 221);
+      background: #867391;
   }
 
   .page:hover, .page2:hover, .page3:hover {
