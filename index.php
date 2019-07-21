@@ -19,11 +19,11 @@
         <meta name="keywords" content="UI, UX, Front-end, Back-end, Full Stack, Web Development, Design, Lukas Rimkus" />
         <meta name="robots" content="index,follow" />
         <link rel="stylesheet" type = "text/css" href="lukasijusweb/style.css?rnd=1">
-        <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-menu-icon.css">
-        <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-menu-table.css">
-        <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-header-style.css">
-        <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-menu-navigation-bar.css">
-        <link rel="stylesheet" type = "text/css" href="lukasijusweb/container.css">
+        <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-menu-icon.css?rnd=1">
+        <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-menu-table.css?rnd=1">
+        <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-header-style.css?rnd=1">
+        <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-menu-navigation-bar.css?rnd=1">
+        <link rel="stylesheet" type = "text/css" href="lukasijusweb/container.css?rnd=1">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
         <script type="text/javascript" src="lukasijusweb/anim-icon.js"></script>
         <script type="text/javascript" src="lukasijusweb/page_title.js"></script>
