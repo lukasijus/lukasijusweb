@@ -1,7 +1,10 @@
 <html>
     <head>
-                <!-- Global site tag (gtag.js) - Google Analytics -->
-                <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141193083-2"></script>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="ugAYJCqQjMnr9yVdDcm24M2CC5zu_gJ1_f3y0zyJ9qA" />
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141193083-2"></script>
         <script>
         window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
@@ -15,8 +18,8 @@
         <!-- Tell Browsers not to cache - End -->
         <meta http-equiv="Content-Type" content="text/html"; charset="utf-8"/>
         <title>Lukas Rimkus | UX/UI Designer & Full Stack Engineer</title>
-        <meta name="description" content="Front-End & Back-End Development"/>
-        <meta name="keywords" content="UI, UX, Front-end, Back-end, Full Stack, Web Development, Design, Lukas Rimkus" />
+        <meta name="description" content="Front-End & Back-End Web Development. Creative desgin. Excellent perfomance."/>
+        <meta name="keywords" content="UI, UX, Front-end, Back-end, Full Stack, Web Development, Web Design, Lukas Rimkus, Creative, Web" />
         <meta name="robots" content="index,follow" />
         <link rel="stylesheet" type = "text/css" href="lukasijusweb/style.css?rnd=1">
         <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-menu-icon.css?rnd=1">
@@ -27,7 +30,7 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
         <script type="text/javascript" src="lukasijusweb/anim-icon.js"></script>
         <script type="text/javascript" src="lukasijusweb/page_title.js"></script>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     
         <link href="https://fonts.googleapis.com/css?family=Roboto:100|Russo+One&display=swap" rel="stylesheet">
     </head>
 <body>
