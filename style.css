@@ -56,7 +56,20 @@ logo {
 .img {
     width: 100px;
     height: 100px;
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+}
 
+.img:hover {
+  -webkit-filter: none; /* Safari 6.0 - 9.0 */
+  filter: none;
+}
+
+footer {
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: white;
 }
 
 @media screen and (max-width: 899px){

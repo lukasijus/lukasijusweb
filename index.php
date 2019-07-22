@@ -3,25 +3,18 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="google-site-verification" content="ugAYJCqQjMnr9yVdDcm24M2CC5zu_gJ1_f3y0zyJ9qA" />
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141193083-2"></script>
-        <script>
-        window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-                gtag('js', new Date());
-                gtag('config', 'UA-141193083-2');
-        </script>
-        <!-- Tell Browsers not to cache - Start -->
-        <meta http-equiv="Cache-Control" content="no-cache" />
-        <meta http-equiv="Pragma" content="no-cache" />
-        <meta http-equiv="Expires" content="0" />
-        <!-- Tell Browsers not to cache - End -->
-        <meta http-equiv="Content-Type" content="text/html"; charset="utf-8"/>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-NLCF963');</script>
+    <!-- End Google Tag Manager -->
         <title>Lukas Rimkus | UX/UI Designer & Full Stack Engineer</title>
         <meta name="description" content="Front-End & Back-End Web Development. Creative desgin. Excellent perfomance."/>
         <meta name="keywords" content="UI, UX, Front-end, Back-end, Full Stack, Web Development, Web Design, Lukas Rimkus, Creative, Web" />
         <meta name="robots" content="index,follow" />
-        <link rel="stylesheet" type = "text/css" href="lukasijusweb/style.css?rnd=1">
+        <link rel="stylesheet" type = "text/css" href="lukasijusweb/style.css?rnd=1.1">
         <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-menu-icon.css?rnd=1">
         <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-menu-table.css?rnd=1">
         <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-header-style.css?rnd=1">
@@ -30,10 +23,13 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
         <script type="text/javascript" src="lukasijusweb/anim-icon.js"></script>
         <script type="text/javascript" src="lukasijusweb/page_title.js"></script>
-     
         <link href="https://fonts.googleapis.com/css?family=Roboto:100|Russo+One&display=swap" rel="stylesheet">
     </head>
 <body>
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NLCF963"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 <header>
 <ul>
                     
