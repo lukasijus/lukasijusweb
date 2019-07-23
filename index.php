@@ -1,6 +1,7 @@
 <html>
     <head>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset= "utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="google-site-verification" content="ugAYJCqQjMnr9yVdDcm24M2CC5zu_gJ1_f3y0zyJ9qA" />
     <!-- Google Tag Manager -->
@@ -11,6 +12,7 @@
     })(window,document,'script','dataLayer','GTM-NLCF963');</script>
     <!-- End Google Tag Manager -->
         <title>Lukas Rimkus | UX/UI Designer & Full Stack Engineer</title>
+        <meta name="author" content="Lukas Rimkus">
         <meta name="description" content="Front-End & Back-End Web Development. Creative desgin. Excellent perfomance."/>
         <meta name="keywords" content="UI, UX, Front-end, Back-end, Full Stack, Web Development, Web Design, Lukas Rimkus, Creative, Web" />
         <meta name="robots" content="index,follow" />
