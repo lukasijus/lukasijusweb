@@ -41,8 +41,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <li><a href="#back">Back-End</a></li>
                     <li><a href="#front">Front-End</a></li>
                     <li><a href="#about">About</a></li>
+        
                     <logo ><a href="https://lukasijus.com">Lukas Rimkus</a></logo>  
-                    <button id = "btn" class="lukasiju-mnu" aria-expanded="false" aria-pressed="false"><span></span></button>
+                        <button id = "btn" class="lukasiju-mnu" aria-expanded="false" aria-pressed="false"><span></span></button>
+                    
                     <nav >
                         <ul>
                             <list> <a href="#about">About</a></list>
@@ -50,9 +52,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <list> <a href="#back">Back-End</a></list>
                             <list> <a href="#contact">Contact</a></list>
                         </ul>
-
-                        </nav>
-                  </ul>
             
              
                   <p id='name'></p>
