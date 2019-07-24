@@ -19,7 +19,7 @@
         <link rel="stylesheet" type = "text/css" href="lukasijusweb/style.css?rnd=1.2">
         <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-menu-icon.css?rnd=1">
         <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-menu-table.css?rnd=1.1">
-        <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-header-style.css?rnd=1">
+        <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-header-style.css?rnd=1.1">
         <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-menu-navigation-bar.css?rnd=1">
         <link rel="stylesheet" type = "text/css" href="lukasijusweb/container.css?rnd=1">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
@@ -65,13 +65,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class = "technologies">
          
      
-            <div class="imgcont"><img class="img" src="./img/HTML5_Badge_512.png"  alt="HTML5 Powered" title="HTML5 Powered"></div>
+            <div class="imgcont"><img class="img" src="lukasijusweb/img/HTML5_Badge_512.png"  alt="HTML5 Powered" title="HTML5 Powered"></div>
             
-            <div class="imgcont"> <img class="img" src="img/css-131-722685.png" alt = "CSS3 Powered" title="CSS3 Powered"></div>
+            <div class="imgcont"> <img class="img" src="lukasijusweb/css-131-722685.png" alt = "CSS3 Powered" title="CSS3 Powered"></div>
             
-            <div class="imgcont"><img class="img" src="./img/sass.png" alt = "Sass Powered" title="Sass Powered"></div>
+            <div class="imgcont"><img class="img" src=".lukasijusweb/img/sass.png" alt = "Sass Powered" title="Sass Powered"></div>
 
-             <div class="imgcont"><img class="img" src="./img/tumblr_lsus01g1ik1qies3uo1_400.png" alt = "Javascript Powered" title="Javascript Powered"></div>
+             <div class="imgcont"><img class="img" src="/lukasijusweb/img/tumblr_lsus01g1ik1qies3uo1_400.png" alt = "Javascript Powered" title="Javascript Powered"></div>
 
              <div class="imgcont"><img class="img" src="./img/jquery.png" alt = "jQuery Powered" title="jQuery Powered"></div>
 
