@@ -16,16 +16,18 @@
         <meta name="description" content="Front-End & Back-End Web Development. Creative desgin. Excellent perfomance."/>
         <meta name="keywords" content="UI, UX, Front-end, Back-end, Full Stack, Web Development, Web Design, Lukas Rimkus, Creative, Web" />
         <meta name="robots" content="index,follow" />
-        <link rel="stylesheet" type = "text/css" href="lukasijusweb/style.css?rnd=1.1">
+        <link rel="stylesheet" type = "text/css" href="lukasijusweb/style.css?rnd=1.2">
         <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-menu-icon.css?rnd=1">
-        <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-menu-table.css?rnd=1">
+        <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-menu-table.css?rnd=1.1">
         <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-header-style.css?rnd=1">
         <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-menu-navigation-bar.css?rnd=1">
         <link rel="stylesheet" type = "text/css" href="lukasijusweb/container.css?rnd=1">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
         <script type="text/javascript" src="lukasijusweb/anim-icon.js"></script>
         <script type="text/javascript" src="lukasijusweb/page_title.js"></script>
+        <script type="text/javascript" src="lukasijusweb/moving_text.js"></script>
         <link href="https://fonts.googleapis.com/css?family=Roboto:100|Russo+One&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Darker+Grotesque:900&display=swap" rel="stylesheet">
     </head>
 <body>
     <!-- Google Tag Manager (noscript) -->
@@ -58,138 +60,61 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </header>
 
   
-    <h1 class="heading">Technologies</h1>
-
-    <div class = "technologies">
-            <div class="imgcont"><img class="img" src="lukasijusweb/img/HTML5_Badge_512.png"  alt="HTML5 Powered" title="HTML5 Powered"></div>
-            
-            <div class="imgcont"> <img class="img" src="lukasijusweb/img/css-131-722685.png" alt = "CSS3 Powered" title="CSS3 Powered"></div>
-           
-            <div class="imgcont"><img class="img" src="lukasijusweb/img/bootstrap-logo.jpg" alt = "Bootstrap Powered" title="Bootstrap Powered"></div>
-            
-            <div class="imgcont"><img class="img" src="lukasijusweb/img/sass.png" alt = "Sass Powered" title="Sass Powered"></div>
-
-             <div class="imgcont"><img class="img" src="lukasijusweb/img/tumblr_lsus01g1ik1qies3uo1_400.png" alt = "Javascript Powered" title="Javascript Powered"></div>
-
-             <div class="imgcont"><img class="img" src="lukasijusweb/img/jquery.png" alt = "jQuery Powered" title="jQuery Powered"></div>
-
-             <div class="imgcont"><img class="img" src="lukasijusweb/img/React.js_logo-512.png" alt = "React Powered" title="React Powered"></div>
-
-             <div class="imgcont"><img class="img" src="lukasijusweb/img/eslint-logo-300x300.png" alt = "eslint Powered" title="eslint Powered"></div>
-
-             <div class="imgcont"><img class="img" src="lukasijusweb//img/visionappster.png"  alt = "VisionAppster Powered" title="VisionAppster Powered"></div>
-
-             <div class="imgcont"><img class="img" src="lukasijusweb/img/angular.png" alt = "Angular Powered" title="Angular Powered"></div>
-
-             <div class="imgcont"><img class="img" src="lukasijusweb/img/nodejs-logo-png-nice-images-collection-node-js-desktop-wallpapers-370.png"  alt = "Node Powered" title="Node Powered"></div>
-
-             <div class="imgcont"><img class="img" src="lukasijusweb/img/Git-Icon-1788C.png" alt = "Git Powered" title="Git Powered"></div>
-
-             <div class="imgcont"><img class="img" src="lukasijusweb/img/github.svg" alt = "Github Powered" title="Github Powered"></div>
-
-             <div class="imgcont"><img class="img" src="lukasijusweb/img/WordPress-logotype-simplified.png" alt = "wordpress Powered" title="wordrpess Powered"></div>
-
-             <div class="imgcont"><img class="img" src="lukasijusweb/img/php_PNG50.png" alt = "PHP Powered" title="PHP Powered"></div>
-
-             <div class="imgcont"><img class="img" src="lukasijusweb/img/mysql.png" alt = "mySQL Powered" title="mySQL Powered"></div>
-
-             <div class="imgcont"><img class="img" src="lukasijusweb/img/npm_logo.png"  alt = "npm Powered" title="npm Powered"></div>
-      
-             <div class="imgcont"><img class="img" src="lukasijusweb/img/python.png"  alt = "python Powered" title="python Powered"></div>
-
-             <div class="imgcont"><img class="img" src="lukasijusweb/img/es6.png"  alt = "es6 Powered" title="es6 Powered"></div>
-
-             <div class="imgcont"><img class="img" src="lukasijusweb/img/OpenCV_Logo_with_text.png"  alt = "openCV Powered" title="openCV Powered"></div>
-
-            </div>
-
-
-    <main class="page">
-    
-            <!-- Title -->
-            <h1 class="page-title"></h1>
-            
-            <!-- Content -->
-            <div class="page-content">
-                
-                <!-- Placeholder Content -->
-                <div class="placeholder-content">
-                    <div class="placeholder-content_item"></div>
-                    <div class="placeholder-content_item"></div>
-                    <div class="placeholder-content_item"></div>
-                    <div class="placeholder-content_item"></div>
-                    <div class="placeholder-content_item"></div>
-                    <div class="placeholder-content_item"></div>
-                    <div class="placeholder-content_item"></div>
-                    <div class="placeholder-content_item"></div>
-                    <div class="placeholder-content_item"></div>
-                    <div class="placeholder-content_item"></div>
-                    <div class="placeholder-content_item"></div>
-                </div>
-                
-            </div>
-            
-        </main>
-        
-
-        <main class="page2">
-    
-                <!-- Title -->
-                <h1 class="page-title"></h1>
-                
-                <!-- Content -->
-                <div class="page-content">
-                    
-                    <!-- Placeholder Content -->
-                    <div class="placeholder-content">
-                        <div class="placeholder-content_item"></div>
-                        <div class="placeholder-content_item"></div>
-                        <div class="placeholder-content_item"></div>
-                        <div class="placeholder-content_item"></div>
-                        <div class="placeholder-content_item"></div>
-                        <div class="placeholder-content_item"></div>
-                        <div class="placeholder-content_item"></div>
-                        <div class="placeholder-content_item"></div>
-                        <div class="placeholder-content_item"></div>
-                        <div class="placeholder-content_item"></div>
-                        <div class="placeholder-content_item"></div>
-                    </div>
-                    
-                </div>
-                
-            </main>
-
-
-            <main class="page3">
-    
-                    <!-- Title -->
-                    <h1 class="page-title"></h1>
-                    
-                    <!-- Content -->
-                    <div class="page-content">
-                        
-                        <!-- Placeholder Content -->
-                        <div class="placeholder-content">
-                            <div class="placeholder-content_item"></div>
-                            <div class="placeholder-content_item"></div>
-                            <div class="placeholder-content_item"></div>
-                            <div class="placeholder-content_item"></div>
-                            <div class="placeholder-content_item"></div>
-                            <div class="placeholder-content_item"></div>
-                            <div class="placeholder-content_item"></div>
-                            <div class="placeholder-content_item"></div>
-                            <div class="placeholder-content_item"></div>
-                            <div class="placeholder-content_item"></div>
-                            <div class="placeholder-content_item"></div>
-                        </div>
-                        
-                    </div>
-                    
-                </main>
-
-
-                <div class="footer">
-         <p></p>
+    <div id="text1">TECHNOLOGIES
         </div>
+    <div class = "technologies">
+         
+     
+            <div class="imgcont"><img class="img" src="./img/HTML5_Badge_512.png"  alt="HTML5 Powered" title="HTML5 Powered"></div>
+            
+            <div class="imgcont"> <img class="img" src="img/css-131-722685.png" alt = "CSS3 Powered" title="CSS3 Powered"></div>
+            
+            <div class="imgcont"><img class="img" src="./img/sass.png" alt = "Sass Powered" title="Sass Powered"></div>
+
+             <div class="imgcont"><img class="img" src="./img/tumblr_lsus01g1ik1qies3uo1_400.png" alt = "Javascript Powered" title="Javascript Powered"></div>
+
+             <div class="imgcont"><img class="img" src="./img/jquery.png" alt = "jQuery Powered" title="jQuery Powered"></div>
+
+             <div class="imgcont"><img class="img" src="./img/React.js_logo-512.png" alt = "React Powered" title="React Powered"></div>
+
+             <div class="imgcont"><img class="img" src="./img/bootstrap-logo.jpg" alt = "Bootstrap Powered" title="Bootstrap Powered"></div>
+
+             <div class="imgcont"><img class="img" src="./img/eslint-logo-300x300.png" alt = "eslint Powered" title="eslint Powered"></div>
+
+             <div class="imgcont"><img class="img" src="./img/visionappster.png"  alt = "VisionAppster Powered" title="VisionAppster Powered"></div>
+
+             <div class="imgcont"><img class="img" src="./img/angular.png" alt = "Angular Powered" title="Angular Powered"></div>
+
+             <div class="imgcont"><img class="img" src="./img/nodejs-logo-png-nice-images-collection-node-js-desktop-wallpapers-370.png"  alt = "Node Powered" title="Node Powered"></div>
+
+             <div class="imgcont"><img class="img" src="./img/Git-Icon-1788C.png" alt = "Git Powered" title="Git Powered"></div>
+
+             <div class="imgcont"><img class="img" src="./img/github.svg" alt = "Github Powered" title="Github Powered"></div>
+
+             <div class="imgcont"><img class="img" src="./img/WordPress-logotype-simplified.png" alt = "wordpress Powered" title="wordrpess Powered"></div>
+
+             <div class="imgcont"><img class="img" src="./img/php_PNG50.png" alt = "PHP Powered" title="PHP Powered"></div>
+
+             <div class="imgcont"><img class="img" src="./img/mysql.png" alt = "mySQL Powered" title="mySQL Powered"></div>
+
+             <div class="imgcont"><img class="img" src="./img/npm_logo.png"  alt = "npm Powered" title="npm Powered"></div>
+
+             <div class="imgcont"><img class="img" src="./img/python.png"  alt = "python Powered" title="python Powered"></div>
+
+             <div class="imgcont"><img class="img" src="./img/es6.png"  alt = "es6 Powered" title="es6 Powered"></div>
+
+             <div class="imgcont"><img class="img" src="./img/OpenCV_Logo_with_text.png"  alt = "openCV Powered" title="openCV Powered"></div>
+    </div>
+
+    <div id="text2">SOLUTIONS
+        </div>
+    <div class="technologies">
+
+
+    </div>
+
+    <footer>
+        <p>Footer</p>
+      </footer>
 </body>
     </html>
