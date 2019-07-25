@@ -53,6 +53,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <list> <a href="#contact">Contact</a></list>
                         </ul>
             
+                        </nav>
+                  </ul>
              
                   <p id='name'></p>
                   
