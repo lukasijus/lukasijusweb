@@ -110,13 +110,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div id="text2">SOLUTIONS
         </div>
     <div class="technologies">
-        <img class="imgcont" src="./img/Data-Mind-Map-icon.png">
+        <img class="imgcont" src="lukasijusweb/img/Data-Mind-Map-icon.png">
         <p>Web scrapping gather data visualizations storing important inforamtion</p>
-        <img class="imgcont" src="./img/back-end.png">
+        <img class="imgcont" src="lukasijusweb/img/back-end.png">
         <p>Server side management api integration hosting</p>
-        <img class="imgcont" src="./img/ui-design.png">
+        <img class="imgcont" src="lukasijusweb/img/ui-design.png">
         <p>Custom UI design simple crispy clean fast interactive responsive </p>
-        <img class="imgcont" src="./img/computer-vision.png">
+        <img class="imgcont" src="lukasijusweb/img/computer-vision.png">
         <p>Computer Vision detection inspection extracting information </p>
 
 
