@@ -16,7 +16,7 @@
         <meta name="description" content="Front-End & Back-End Web Development. Creative desgin. Excellent perfomance."/>
         <meta name="keywords" content="UI, UX, Front-end, Back-end, Full Stack, Web Development, Web Design, Lukas Rimkus, Creative, Web" />
         <meta name="robots" content="index,follow" />
-        <link rel="stylesheet" type = "text/css" href="lukasijusweb/style.css?rnd=2">
+        <link rel="stylesheet" type = "text/css" href="lukasijusweb/style.css?rnd=3">
         <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-menu-icon.css?rnd=2">
         <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-menu-table.css?rnd=2">
         <link rel="stylesheet" type = "text/css" href="lukasijusweb/lukasiju-header-style.css?rnd=2">
@@ -110,6 +110,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div id="text2">SOLUTIONS
         </div>
     <div class="technologies">
+        <img class="imgcont" src="./img/Data-Mind-Map-icon.png">
+        <p>Web scrapping gather data visualizations storing important inforamtion</p>
+        <img class="imgcont" src="./img/back-end.png">
+        <p>Server side management api integration hosting</p>
+        <img class="imgcont" src="./img/ui-design.png">
+        <p>Custom UI design simple crispy clean fast interactive responsive </p>
+        <img class="imgcont" src="./img/computer-vision.png">
+        <p>Computer Vision detection inspection extracting information </p>
+
+
+
+    </div>
 
 
     </div>

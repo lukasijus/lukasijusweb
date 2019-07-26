@@ -134,6 +134,9 @@ footer {
   .technologies {
     width: 700px;
   }
+  #text1, #text2 {
+    font-size: 150px;
+  }
 }
 
 @media screen and (max-width: 764px){
@@ -154,5 +157,8 @@ footer {
   }
   .technologies {
     width: 400px;
+  }
+  #text1, #text2 {
+    font-size: 100px;
   }
 }
